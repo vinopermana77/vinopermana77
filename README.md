@@ -14,8 +14,8 @@ Informatics Engineering
 
 ## Work Experience:
 #### 1. [SDN Puspitek Pagedangan](https://sdnpuspiptek.wordpress.com) | Membuat Aplikasi Absensi Guru SDN Puspitek `Maret,2021 - Juni,2021`
-   - Desain database
-   - Desain tampilan GUI
+   - Membuat desain database
+   - Membuat desain Java GUI
    - Membuat laporan dengan Jasper Report
 ---
 
