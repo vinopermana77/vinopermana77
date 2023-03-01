@@ -1,4 +1,4 @@
-# Hi there, I'm Alvino👋
+# Hello, I'm Alvino Permana Putra👋
 ## About me:
 - 🔭 I am a fresh graduate from Pamulang University
 Faculty of computer science
