@@ -20,7 +20,8 @@ Informatics Engineering
    - Design Tracing Gambar
    - Tim Packing Barang
 #### 2. [PT BPR Kredit Mandiri Indonesia](https://kreditmandiri.co.id/) | IT Staff `September,2023 - Sekarang`
-   - Develop Aplikasi WEB dan API dengan Codeigniter 3 dan Laravel
+   - Develop Website dengan Codeigniter 3
+   - Develop RestAPI dengan Laravel
 ---
 
 ### Languages and Tools:
